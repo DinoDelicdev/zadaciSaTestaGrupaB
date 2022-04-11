@@ -1,4 +1,4 @@
-/*let prostiBrojevi = [];
+let prostiBrojevi = [];
 
 for (i = 1; prostiBrojevi.length < 20; i++) {
     let broj = i;
@@ -13,9 +13,9 @@ for (i = 1; prostiBrojevi.length < 20; i++) {
     }
 }
 
-console.log(prostiBrojevi);*/
+console.log(prostiBrojevi);
 
-let n = 100;
+/*let n = 100;
 nextPrime:
 for (let i = 2; i < n; i++) {
     for (let j = 2; j < i; j++) {
@@ -24,5 +24,5 @@ for (let i = 2; i < n; i++) {
         }
     }
     console.log(i);
-}
+}*/
 
